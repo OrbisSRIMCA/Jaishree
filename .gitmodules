@@ -1,3 +1,6 @@
 [submodule "mymodule"]
 	path = mymodule
 	url = https://github.com/OrbisSRIMCA/Jaishree.git/mymodule
+[submodule "prarthan"]
+	path = prarthan
+	url = https://github.com/OrbisSRIMCA/Jaishree.git/prarthan
